@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "NYT Scraper",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.10"
+  },
   "devDependencies": {},
   "scripts": {
     "start": "cd server && node server.js"
