@@ -31,7 +31,7 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/nytreact");
 
 // Connect to the Mongo DB
 mongoose.Promise = Promise;
-mongoose.connect(MONGODB_URI, {
+mongoose.connect(process.env.MONGODB_URI, {
 });
 
 // Start the API server
