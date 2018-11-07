@@ -1,0 +1,21 @@
+{
+  "name": "nytscraper",
+  "version": "1.0.0",
+  "description": "NYT Scraper",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SundareshSankaran/NYTScraper.git"
+  },
+  "author": "Sundaresh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SundareshSankaran/NYTScraper/issues"
+  },
+  "homepage": "https://github.com/SundareshSankaran/NYTScraper#readme"
+}
